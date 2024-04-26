@@ -1,6 +1,6 @@
 METRO MANAGEMENT SYSTEM -
 
-We have created a Metro Management System using JAVA with GUI, Java Swing and MySQL Database.
+We have created a Metro Management System using JAVA MVD Structure with GUI, Java Swing and MySQL Database.
 
 Team: 
 1. Syeda Saniya (PES1UG21CS658)
